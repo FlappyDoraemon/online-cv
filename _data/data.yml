@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/FlappyDoraemon/online-cv/blob/master/assets/images/CV_Kuan_Han.pdf # may still need to change this later
+    pdf: https://drive.google.com/file/d/1d7cffM7BU6XUCbZnYgZF4Lzk_5k7s0aM/view?usp=sharing # may still need to change this later
 
     languages:
       title: Languages
@@ -64,7 +64,7 @@ education:
         university: Purdue University
         time: Aug 2016 - Dec 2019
         
-      - degree: B.E. in Information and Communication Engineering
+      - degree: BEng in Information and Communication Engineering
         university: Zhejiang University
         time: Sep 2012 - Jun 2016
        
@@ -106,7 +106,7 @@ experiences:
           - Implemented biologically plausible principles in designing artificial neural network architectures, improving their performance and efficiency for object recognition tasks.
 
 oss:
-    title: OSS Contributions
+    title: Open Software Contributions
     intro: "These are my open source software contributions:"
     contributions:
       - title: PCN with local reucrrent processing
@@ -120,7 +120,7 @@ oss:
 publications:
   title: Publications
   intro: |
-    Below is my publication list. 
+    Here is my publication list:
   papers:
     - title: "Diffeomorphic Surface Modeling for MRI-Based Characterization of Gastric Anatomy and Motility"
       link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10011545"
