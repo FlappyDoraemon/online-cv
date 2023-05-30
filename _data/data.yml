@@ -105,6 +105,21 @@ experiences:
           - Developed computational models based on deep neural networks to investigate the representation and processing of visual information in the human visual cortex.
           - Implemented biologically plausible principles in designing artificial neural network architectures, improving their performance and efficiency for object recognition tasks.
 
+honors_and_activities:
+  title: Honors and Professional Activities
+  intro: "Here are some of the honors I've received and professional activities I've participated in:"
+  items:
+    - title: Reviewer of Human Brain Mapping
+    - title: Reviewer of NeuroImage (NIMG)
+    - title: Reviewer of IEEE Transaction on Biomedical Engineering (TBME)
+    - title: Reviewer of IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+    - title: Reviewer of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20)
+    - title: Reviewer of the 2019 Conference on Neural Information Processing Systems (NeurIPS 2019)
+    - title: Travel Award of the 2018 Conference on Neural Information Processing Systems (NeurIPS 2018)
+    - title: Chu Kochen Scholarship and Chu Kochen Medal, Zhejiang University, 2015
+    - title: Meritorious Winner in Interdisciplinary Contest in Modeling (ICM 2015)
+    - title: National Scholarship, Zhejiang University, 2013 & 2014
+
 oss:
     title: Open Software Contributions
     intro: "These are my open source software contributions:"
