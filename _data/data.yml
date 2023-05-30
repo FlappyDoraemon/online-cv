@@ -14,9 +14,9 @@ sidebar:
     # Sidebar links
     email: kuanhan@umich.edu
     phone: 
-    timezone: America/New_York Timezone
+    timezone: 
     citizenship:
-    website: blog.webjeda.com #do not add http:// # modify this later
+    website: # blog.webjeda.com #do not add http:// # modify this later
     linkedin: kuan-han-902a7a278
     xing: 
     github: FlappyDoraemon
@@ -52,7 +52,7 @@ career-profile:
     summary: |
       Ph.D. graduate at the University of Michigan, with experience in signal processing, machine learning, and medical image analysis. My dissertation focused on the development of brain-inspired neural networks, brain decoding, and the application of deep learning to medical image analysis. Currently, I am a research fellow in the University of Michigan.
       
-      Actively seeking Software Development Engineer or Research Scientist roles, I'm eager to apply my expertise to drive innovation and collaboration in cutting-edge projects.
+      Actively seeking Software Development Engineer or Research Scientist roles. I'm eager to apply my expertise to drive innovation and collaboration in cutting-edge projects.
 education:
     title: Education
     info:
