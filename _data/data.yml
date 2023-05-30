@@ -107,12 +107,12 @@ oss:
     title: OSS Contributions
     intro: >
     contributions:
-      - title: Deep Predictive Coding Network with Local Recurrent Processing for Object Recognition
-        link: "https://github.com/libilab/PCN-with-Local-Recurrent-Processing"
+      - title: PCN with local reucrrent processing
+        link: "https://github.com/libilab/PCN-with-Local-Recurrent-Processing"  |
         tagline: "Github repository of Deep Predictive Coding Network with Local Recurrent Processing for Object Recognition (NeuurIPS 18)"
 
       - title: rsfMRI-VAE
-        link: "https://github.com/libilab/rsfMRI-VAE"
+        link: "https://github.com/libilab/rsfMRI-VAE" |
         tagline: "Pytorch implementation of Representation Learning of Resting State fMRI with Variational Autoencoder (NIMG)"
 
 publications:
@@ -180,7 +180,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python (with )
+      - name: Python
         level: 98%
 
       - name: Pytorch
