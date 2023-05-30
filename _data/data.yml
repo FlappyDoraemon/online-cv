@@ -124,57 +124,57 @@ publications:
   papers:
     - title: "Diffeomorphic Surface Modeling for MRI-Based Characterization of Gastric Anatomy and Motility"
       link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10011545"
-      authors: X. Wang, J. Cao, K. Han, M. Choi, Y. She, U. Scheven, R. Avci, P. Du, L. K. Cheng, M. R. Di Natale, J. B. Furness, Z. Liu
+      authors: X. Wang, J. Cao, <strong>K. Han</strong>, M. Choi, Y. She, U. Scheven, R. Avci, P. Du, L. K. Cheng, M. R. Di Natale, J. B. Furness, Z. Liu
       conference: "IEEE Transactions on Biomedical Engineering, 2023"
     
     - title: "Human Eyes Inspired Recurrent Neural Networks are More Robust Against Adversarial Noises"
       link: "https://arxiv.org/pdf/2206.07282.pdf"
-      authors: M. Choi, Y. Zhang, K. Han, X. Wang, Z. Liu
+      authors: M. Choi, Y. Zhang, <strong>K. Han</strong>, X. Wang, Z. Liu
       conference: "arXiv preprint arXiv:2206.07282, 2022"
       
     - title: Explainable Semantic Space by Grounding Language to Vision with Cross-Modal Contrastive Learning
       link: "https://arxiv.org/abs/2111.07180"
-      authors: Y. Zhang, M. Choi, K. Han, Z. Liu
+      authors: Y. Zhang, M. Choi, <strong>K. Han</strong>, Z. Liu
       conference: "Advances in Neural Information Processing Systems, Vol. 34, 2021"
       
     - title: "Representation learning of resting state fMRI with variational autoencoder"
       link: "https://www.sciencedirect.com/science/article/pii/S1053811921006984"
-      authors: J.-H. Kim, Y. Zhang, K. Han, Z. Wen, M. Choi, Z. Liu
+      authors: J.-H. Kim, Y. Zhang, <strong>K. Han</strong>, Z. Wen, M. Choi, Z. Liu
       conference: "NeuroImage, Vol. 241, 118423, 2021, Elsevier"
       
     - title: "Connecting concepts in the brain by mapping cortical representations of semantic relations"
       link: "https://www.nature.com/articles/s41467-020-15804-w"
-      authors: Y. Zhang, K. Han, R. Worth, Z. Liu
+      authors: Y. Zhang, <strong>K. Han</strong>, R. Worth, Z. Liu
       conference: "Nature communications, Vol. 11, No. 1, pp. 1-13, 2020, Nature Publishing Group"
       
     - title: "Variational autoencoder: An unsupervised model for encoding and decoding fMRI activity in visual cortex"
       link: "https://www.sciencedirect.com/science/article/pii/S1053811919304318"
-      authors: K. Han, H. Wen, J. Shi, K.-H. Lu, Y. Zhang, D. Fu, Z. Liu
+      authors: <strong>K. Han</strong>, H. Wen, J. Shi, K.-H. Lu, Y. Zhang, D. Fu, Z. Liu
       conference: "NeuroImage, Vol. 198, pp. 125-136, 2019, Elsevier"
       
     - title: "Deep predictive coding network with local recurrent processing for object recognition"
       link: "https://arxiv.org/abs/1805.07526"
-      authors: K. Han, H. Wen, Y. Zhang, D. Fu, E. Culurciello, Z. Liu
+      authors: <strong>K. Han</strong>, H. Wen, Y. Zhang, D. Fu, E. Culurciello, Z. Liu
       conference: "Advances in Neural Information Processing Systems, pp. 9201-9213, 2018"
       
     - title: "Optimization of particle CBMeMBer filters for hardware implementation"
       link: "https://ieeexplore.ieee.org/document/8404103"
-      authors: C. Yang, Z. Shi, K. Han, J. Zhang, Y. Gu, Z. Qin
+      authors: C. Yang, Z. Shi, <strong>K. Han</strong>, J. Zhang, Y. Gu, Z. Qin
       conference: "IEEE Transactions on Vehicular Technology, Vol. 67, No. 9, pp. 9027-9031, 2018, IEEE"
       
     - title: "Deep Predictive Coding Network for Object Recognition"
       link: "https://arxiv.org/abs/1802.04762"
-      authors: H. Wen, K. Han, J. Shi, Y. Zhang, E. Culurciello, Z. Liu
+      authors: H. Wen, <strong>K. Han</strong>, J. Shi, Y. Zhang, E. Culurciello, Z. Liu
       conference: "International Conference on Machine Learning, pp. 5263-5272, 2018"
       
     - title: "Deep recurrent neural network reveals a hierarchy of process memory during dynamic natural vision"
       link: "https://onlinelibrary.wiley.com/doi/10.1002/hbm.24006"
-      authors: J. Shi, H. Wen, Y. Zhang, K. Han, Z. Liu
+      authors: J. Shi, H. Wen, Y. Zhang, <strong>K. Han</strong>, Z. Liu
       conference: "Human brain mapping, Vol. 39, No. 5, pp. 2269-2282, 2018, Wiley Online Library"
       
     - title: "Dynamic particle allocation for CB-MeMBer filter"
       link: "https://ieeexplore.ieee.org/document/7459929"
-      authors: K. Han, Z. Qin, X. Gao, M. Jin, Z. Shi
+      authors: <strong>K. Han</strong>, Z. Qin, X. Gao, M. Jin, Z. Shi
       conference: "2015 10th International Conference on Information, Communications and Signal Processing (ICICS), pp. 1-5, 2015, IEEE"
 
 
