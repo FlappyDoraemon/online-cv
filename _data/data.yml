@@ -27,7 +27,6 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    googlescholar: "https://scholar.google.com/citations?user=8r1R3UYAAAAJ&hl=en"
     pdf: https://drive.google.com/file/d/1d7cffM7BU6XUCbZnYgZF4Lzk_5k7s0aM/view?usp=sharing # may still need to change this later
 
     languages:
@@ -136,7 +135,9 @@ oss:
 publications:
   title: Publications
   intro: |
-    Here is my publication list:
+    Here is my google scholar link
+  link: "https://scholar.google.com/citations?user=8r1R3UYAAAAJ&hl=en"
+    
   papers:
     - title: "Diffeomorphic Surface Modeling for MRI-Based Characterization of Gastric Anatomy and Motility"
       link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10011545"
