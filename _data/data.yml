@@ -103,51 +103,17 @@ experiences:
           - Developed computational models based on deep neural networks to investigate the representation and processing of visual information in the human visual cortex.
           - Implemented biologically plausible principles in designing artificial neural network architectures, improving their performance and efficiency for object recognition tasks.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Deep Predictive Coding Network with Local Recurrent Processing for Object Recognition
+        link: "https://github.com/libilab/PCN-with-Local-Recurrent-Processing"
+        tagline: "Github repository of Deep Predictive Coding Network with Local Recurrent Processing for Object Recognition (NeuurIPS 18)"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: rsfMRI-VAE
+        link: "https://github.com/libilab/rsfMRI-VAE"
+        tagline: "Pytorch implementation of Representation Learning of Resting State fMRI with Variational Autoencoder (NIMG)"
 
 publications:
   title: Publications
