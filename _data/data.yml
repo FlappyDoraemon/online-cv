@@ -27,6 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    googlescholar: "https://scholar.google.com/citations?user=8r1R3UYAAAAJ&hl=en"
     pdf: https://drive.google.com/file/d/1d7cffM7BU6XUCbZnYgZF4Lzk_5k7s0aM/view?usp=sharing # may still need to change this later
 
     languages:
