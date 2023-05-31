@@ -134,9 +134,9 @@ oss:
 
 publications:
   title: Publications
-  intro: |
-    Here is my google scholar link
   link: "https://scholar.google.com/citations?user=8r1R3UYAAAAJ&hl=en"
+  intro: |
+    Here is my publication list:
     
   papers:
     - title: "Diffeomorphic Surface Modeling for MRI-Based Characterization of Gastric Anatomy and Motility"
