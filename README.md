@@ -25,4 +25,4 @@ Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 
 
 Results
-- https://kuanhan1.github.io/cv/
+- https://kuanhan1.github.io/online-cv/
